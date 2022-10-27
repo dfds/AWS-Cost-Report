@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MySimpleFunction</id>
+    <version>1.0.0</version>
+    <authors>MySimpleFunction</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="AWSSDK.CostExplorer" version="3.7.7" exclude="Build,Analyzers" />
+        <dependency id="AWSSDK.IdentityManagement" version="3.7.100.1" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Core" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Amazon.Lambda.Serialization.SystemTextJson" version="2.3.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\bin\Release\net6.0\MySimpleFunction.runtimeconfig.json" target="lib\net6.0\MySimpleFunction.runtimeconfig.json" />
+    <file src="C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\bin\Release\net6.0\MySimpleFunction.dll" target="lib\net6.0\MySimpleFunction.dll" />
+  </files>
+</package>

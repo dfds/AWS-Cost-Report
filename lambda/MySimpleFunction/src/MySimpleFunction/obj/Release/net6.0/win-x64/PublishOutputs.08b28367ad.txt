@@ -1,0 +1,10 @@
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\MySimpleFunction.deps.json
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\MySimpleFunction.runtimeconfig.json
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\MySimpleFunction.pdb
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\Amazon.Lambda.Core.dll
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\AWSSDK.Core.dll
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\AWSSDK.CostExplorer.dll
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\AWSSDK.IdentityManagement.dll
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\Newtonsoft.Json.dll
+C:\Users\hritote.ladm\repos\aws_cost_explorer\lambda\MySimpleFunction\src\MySimpleFunction\Output\MySimpleFunction.dll

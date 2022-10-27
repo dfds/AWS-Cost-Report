@@ -1,0 +1,10 @@
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/MySimpleFunction.deps.json
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/MySimpleFunction.runtimeconfig.json
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/MySimpleFunction.pdb
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/Amazon.Lambda.Core.dll
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/AWSSDK.Core.dll
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/AWSSDK.CostExplorer.dll
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/AWSSDK.IdentityManagement.dll
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/Newtonsoft.Json.dll
+/mnt/c/users/hritote.ladm/repos/aws_cost_explorer/lambda/MySimpleFunction/src/MySimpleFunction/bin/Release/net6.0/linux-x64/publish/MySimpleFunction.dll
