@@ -10,7 +10,6 @@ Set the following environment variables:
 
 ## Instruction
   - navigate to the project folder
-  - Run init.sh
   - Run TF_VAR_slack_token=CHANGEME  terragrunt run-all --terragrunt-source-update --terragrunt-working-dir environments/hritote-sandbox apply
   
   
