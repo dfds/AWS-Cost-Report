@@ -4,11 +4,13 @@
 Set the following environment variables: 
 | Variable| Description |
 | :---: | :---: |
-| REMOVE_INACTIVE_USERS_API_TOKEN | Generate Token using Slack API/ OAuth Scope: channels:read, chat:write, chat:write.public |
+| LAMBDA_COST_EXPLORER | Generate Token using Slack API/ OAuth Scope: channels:read, chat:write, chat:write.public |
 | :---: | :---: |
 
 
-## Run the program 
+## Instruction
   - navigate to the project folder
-  - execute `dotnet run`
+  - Run init.sh
+  - Run TF_VAR_slack_token=CHANGEME  terragrunt run-all --terragrunt-source-update --terragrunt-working-dir environments/hritote-sandbox apply
+  
   
